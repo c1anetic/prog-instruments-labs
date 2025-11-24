@@ -1,0 +1,6 @@
+{
+  "CGEN_SEQ_PATH": "task1/cgen_sequence.txt",
+  "JAVAGEN_SEQ_PATH": "task1/javagen_sequence.txt",
+  "RESULTS_PATH": "task2/results.txt",
+  "PROBABILITIES": ["0.2148", "0.3672", "0.2305", "0.1875"]
+}
