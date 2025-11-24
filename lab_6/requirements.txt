@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+scipy
+json
+math
+tempfile
+os
